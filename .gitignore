@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.next/
+.env
+.env.local
+*.db
+agentmint.json
+.DS_Store
+BAGS_HACKATHON_SUBMISSION.md
+pitch-deck/
+tsconfig.tsbuildinfo
